@@ -11,6 +11,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+import UIKit
+
 internal class Coalescer {
     
     // Class to coalesce actions into intervals.
